@@ -12,7 +12,7 @@
         {{-- Sidebar --}}
         <aside class="w-64 bg-blue-700 text-white flex flex-col">
             <div class="px-6 py-5 border-b border-blue-600">
-                <h1 class="text-lg font-bold leading-tight">Manajemen Pasien</h1>
+                <h1 class="text-lg font-bold leading-tight">Management Pasien</h1>
                 <p class="text-xs text-blue-200">Sistem Riwayat Kesehatan</p>
             </div>
 
